@@ -1,0 +1,16 @@
+{
+  "name": "treejstut",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "vite": "^2.3.8"
+  },
+  "dependencies": {
+    "three": "^0.135.0"
+  }
+}
